@@ -35,4 +35,4 @@ Full Stack Java Developer
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/dharmil18/MoneyTrackr-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dharmil18&repo=MoneyTrackr-App&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/dharmil18/Quizzer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dharmil18&repo=Quizzer&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/dharmil18/MoneyTrackr-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dharmil18&repo=MoneyTrackr-App&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
